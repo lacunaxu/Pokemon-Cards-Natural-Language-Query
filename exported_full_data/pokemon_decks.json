@@ -1,0 +1,1682 @@
+[
+  {
+    "_id": "6806b25c902b61f198d11c47",
+    "id": "d-bw10-1",
+    "name": "Mind Wipe",
+    "types": [
+      "Grass",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c48",
+    "id": "d-bw10-2",
+    "name": "Solar Strike",
+    "types": [
+      "Fire",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c49",
+    "id": "d-bw1-1",
+    "name": "Green Tornado",
+    "types": [
+      "Grass",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c4a",
+    "id": "d-bw1-2",
+    "name": "Red Frenzy",
+    "types": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c4b",
+    "id": "d-bw1-3",
+    "name": "Blue Assault",
+    "types": [
+      "Water",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c4c",
+    "id": "d-hgss4-1",
+    "name": "Verdant Frost",
+    "types": [
+      "Grass",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c4d",
+    "id": "d-hgss4-2",
+    "name": "Royal Guard",
+    "types": [
+      "Psychic",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c4e",
+    "id": "d-ex11-1",
+    "name": "Breakthrough",
+    "types": [
+      "Grass",
+      "Lightning",
+      "Metal"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c4f",
+    "id": "d-ex11-2",
+    "name": "Steeplechase",
+    "types": [
+      "Fire",
+      "Colorless",
+      "Metal"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c50",
+    "id": "d-sm4-1",
+    "name": "Destruction Fang",
+    "types": [
+      "Darkness",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c51",
+    "id": "d-sm4-2",
+    "name": "Clanging Thunder",
+    "types": [
+      "Lightning",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c52",
+    "id": "d-swsh4-1",
+    "name": "Charizard",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c53",
+    "id": "d-swsh4-2",
+    "name": "Drednaw",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c54",
+    "id": "d-xy3-1",
+    "name": "Enchanted Echo",
+    "types": [
+      "Grass",
+      "Fairy"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c55",
+    "id": "d-xy3-2",
+    "name": "Dark Hammer",
+    "types": [
+      "Darkness",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c56",
+    "id": "d-base4-1",
+    "name": "2-Player CD-ROM Starter Set",
+    "types": [
+      "Fighting",
+      "Water",
+      "Colorless"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c57",
+    "id": "d-base4-2",
+    "name": "Grass Chopper",
+    "types": [
+      "Fighting",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c58",
+    "id": "d-base4-3",
+    "name": "Hot Water",
+    "types": [
+      "Fire",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c59",
+    "id": "d-base4-4",
+    "name": "Lightning Bug",
+    "types": [
+      "Lightning",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c5a",
+    "id": "d-base4-5",
+    "name": "Psych Out",
+    "types": [
+      "Psychic",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c5b",
+    "id": "d-base4-6",
+    "name": "Thunderstorm",
+    "types": [
+      "Water",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c5c",
+    "id": "d-col1-1",
+    "name": "Retort",
+    "types": [
+      "Fighting",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c5d",
+    "id": "d-col1-2",
+    "name": "Recon",
+    "types": [
+      "Grass",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c5e",
+    "id": "d-ex6-1",
+    "name": "FireRed",
+    "types": [
+      "Water",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c5f",
+    "id": "d-ex6-2",
+    "name": "LeafGreen",
+    "types": [
+      "Grass",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c60",
+    "id": "d-sm8-1",
+    "name": "Storm Caller",
+    "types": [
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c61",
+    "id": "d-sm8-2",
+    "name": "Blazing Volcano",
+    "types": [
+      "Fire",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c62",
+    "id": "d-sm9-1",
+    "name": "Relentless Flame",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c63",
+    "id": "d-sm9-2",
+    "name": "Torrential Cannon",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c64",
+    "id": "d-sm9-3",
+    "name": "Let's Play, Pikachu!",
+    "types": [
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c65",
+    "id": "d-sm9-4",
+    "name": "Let's Play, Eevee!",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c66",
+    "id": "d-ex7-1",
+    "name": "Jessie",
+    "types": [
+      "Grass",
+      "Psychic",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c67",
+    "id": "d-ex7-2",
+    "name": "James",
+    "types": [
+      "Grass",
+      "Water",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c68",
+    "id": "d-neo2-1",
+    "name": "BrainWave",
+    "types": [
+      "Psychic",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c69",
+    "id": "d-neo2-2",
+    "name": "Wallop",
+    "types": [
+      "Grass",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c6a",
+    "id": "d-ecard1-1",
+    "name": "Echo",
+    "types": [
+      "Psychic",
+      "Colorless"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c6b",
+    "id": "d-ecard1-2",
+    "name": "Electric Garden",
+    "types": [
+      "Grass",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c6c",
+    "id": "d-base5-1",
+    "name": "Devastation",
+    "types": [
+      "Grass",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c6d",
+    "id": "d-base5-2",
+    "name": "Trouble",
+    "types": [
+      "Psychic",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c6e",
+    "id": "d-xy2-1",
+    "name": "Brilliant Thunder",
+    "types": [
+      "Fire",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c6f",
+    "id": "d-xy2-2",
+    "name": "Mystic Typhoon",
+    "types": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c70",
+    "id": "d-dp1-1",
+    "name": "Terra Firma",
+    "types": [
+      "Grass",
+      "Darkness"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c71",
+    "id": "d-dp1-2",
+    "name": "Inferno Zone",
+    "types": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c72",
+    "id": "d-dp1-3",
+    "name": "Royal Frost",
+    "types": [
+      "Water",
+      "Metal"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c73",
+    "id": "d-sm5-1",
+    "name": "Mach Strike",
+    "types": [
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c74",
+    "id": "d-sm5-2",
+    "name": "Imperial Command",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c75",
+    "id": "d-ex10-1",
+    "name": "Golden Sky",
+    "types": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c76",
+    "id": "d-ex10-2",
+    "name": "Silvery Ocean",
+    "types": [
+      "Grass",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c77",
+    "id": "d-dp6-1",
+    "name": "Bombardment",
+    "types": [
+      "Water",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c78",
+    "id": "d-dp6-2",
+    "name": "Metal Surge",
+    "types": [
+      "Metal",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c79",
+    "id": "d-swsh2-1",
+    "name": "Zacian",
+    "types": [
+      "Metal"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c7a",
+    "id": "d-swsh2-2",
+    "name": "Zamazenta",
+    "types": [
+      "Metal"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c7b",
+    "id": "d-xy5-1",
+    "name": "Ocean's Core",
+    "types": [
+      "Water",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c7c",
+    "id": "d-xy5-2",
+    "name": "Earth's Pulse",
+    "types": [
+      "Fighting",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c7d",
+    "id": "d-xy12-1",
+    "name": "Pikachu Power",
+    "types": [
+      "Lightning",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c7e",
+    "id": "d-xy12-2",
+    "name": "Mewtwo Mayhem",
+    "types": [
+      "Psychic",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c7f",
+    "id": "d-base2-1",
+    "name": "Water Blast",
+    "types": [
+      "Water",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c80",
+    "id": "d-base2-2",
+    "name": "Power Reserve",
+    "types": [
+      "Psychic",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c81",
+    "id": "d-gym2-1",
+    "name": "Sabrina",
+    "types": [
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c82",
+    "id": "d-gym2-2",
+    "name": "Koga",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c83",
+    "id": "d-gym2-3",
+    "name": "Blaine",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c84",
+    "id": "d-gym2-4",
+    "name": "Giovanni",
+    "types": [
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c85",
+    "id": "d-xy9-1",
+    "name": "Wave Slasher",
+    "types": [
+      "Water",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c86",
+    "id": "d-xy9-2",
+    "name": "Electric Eye",
+    "types": [
+      "Lightning",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c87",
+    "id": "d-pl1-1",
+    "name": "Flourish",
+    "types": [
+      "Grass",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c88",
+    "id": "d-pl1-2",
+    "name": "Rebellion",
+    "types": [
+      "Psychic",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c89",
+    "id": "d-hgss2-1",
+    "name": "Chaos Control",
+    "types": [
+      "Psychic",
+      "Fighting",
+      "Darkness"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c8a",
+    "id": "d-hgss2-2",
+    "name": "Steel Sentinel",
+    "types": [
+      "Grass",
+      "Fighting",
+      "Metal"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c8b",
+    "id": "d-bw7-1",
+    "name": "Ice Shock",
+    "types": [
+      "Water",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c8c",
+    "id": "d-bw7-2",
+    "name": "Cold Fire",
+    "types": [
+      "Water",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c8d",
+    "id": "d-bw7-3",
+    "name": "Red Genesect Collection",
+    "types": [
+      "Grass",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c8e",
+    "id": "d-sm2-1",
+    "name": "Steel Sun",
+    "types": [
+      "Metal",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c8f",
+    "id": "d-sm2-2",
+    "name": "Hidden Moon",
+    "types": [
+      "Psychic",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c90",
+    "id": "d-sm3-1",
+    "name": "Rock Steady",
+    "types": [
+      "Fighting",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c91",
+    "id": "d-sm3-2",
+    "name": "Luminous Frost",
+    "types": [
+      "Water",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c92",
+    "id": "d-ex16-1",
+    "name": "Mind Game",
+    "types": [
+      "Fighting",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c93",
+    "id": "d-ex16-2",
+    "name": "Dark Blast",
+    "types": [
+      "Darkness",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c94",
+    "id": "d-hgss3-1",
+    "name": "Daybreak",
+    "types": [
+      "Psychic",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c95",
+    "id": "d-hgss3-2",
+    "name": "Nightfall",
+    "types": [
+      "Darkness",
+      "Metal"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c96",
+    "id": "d-bw6-1",
+    "name": "DragonSnarl",
+    "types": [
+      "Psychic",
+      "Darkness"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c97",
+    "id": "d-bw6-2",
+    "name": "Dragon Speed",
+    "types": [
+      "Water",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c98",
+    "id": "d-xy8-1",
+    "name": "Burning Spark",
+    "types": [
+      "Lightning",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c99",
+    "id": "d-xy8-2",
+    "name": "Night Striker",
+    "types": [
+      "Psychic",
+      "Darkness"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c9a",
+    "id": "d-neo4-1",
+    "name": "Light",
+    "types": [
+      "Fighting",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c9b",
+    "id": "d-neo4-2",
+    "name": "Dark",
+    "types": [
+      "Fire",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c9c",
+    "id": "d-ex1-1",
+    "name": "Ruby",
+    "types": [
+      "Fighting",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c9d",
+    "id": "d-ex1-2",
+    "name": "Sapphire",
+    "types": [
+      "Water",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c9e",
+    "id": "d-base3-1",
+    "name": "LockDown",
+    "types": [
+      "Fire",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11c9f",
+    "id": "d-base3-2",
+    "name": "BodyGuard",
+    "types": [
+      "Grass",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ca0",
+    "id": "d-swsh3-1",
+    "name": "Galarian Darmanitan",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ca1",
+    "id": "d-swsh3-2",
+    "name": "Galarian Sirfetch'd",
+    "types": [
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ca2",
+    "id": "d-xy4-1",
+    "name": "Burning Winds",
+    "types": [
+      "Fire",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ca3",
+    "id": "d-xy4-2",
+    "name": "Bolt Twister",
+    "types": [
+      "Lightning",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ca4",
+    "id": "d-dp7-1",
+    "name": "Raging Sea",
+    "types": [
+      "Water",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ca5",
+    "id": "d-dp7-2",
+    "name": "Dark Rampage",
+    "types": [
+      "Darkness",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ca6",
+    "id": "d-ex2-1",
+    "name": "Oasis",
+    "types": [
+      "Water",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ca7",
+    "id": "d-ex2-2",
+    "name": "Caravan",
+    "types": [
+      "Grass",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ca8",
+    "id": "d-bw9-1",
+    "name": "Frost Ray",
+    "types": [
+      "Water",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ca9",
+    "id": "d-bw9-2",
+    "name": "Psy Crusher",
+    "types": [
+      "Psychic",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11caa",
+    "id": "d-xy7-1",
+    "name": "Iron Tide",
+    "types": [
+      "Metal",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cab",
+    "id": "d-xy7-2",
+    "name": "Stone Heart",
+    "types": [
+      "Fighting",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cac",
+    "id": "d-xy10-1",
+    "name": "Sky Guardian",
+    "types": [
+      "Fire",
+      "Fairy"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cad",
+    "id": "d-xy10-2",
+    "name": "Battle Ruler",
+    "types": [
+      "Fighting",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cae",
+    "id": "d-dp4-1",
+    "name": "Infinite Space",
+    "types": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11caf",
+    "id": "d-dp4-2",
+    "name": "Eternal Time",
+    "types": [
+      "Fighting",
+      "Metal"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cb0",
+    "id": "d-dp4-3",
+    "name": "Endless Night",
+    "types": [
+      "Grass",
+      "Fire",
+      "Darkness"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cb1",
+    "id": "d-ex15-1",
+    "name": "Power Wave",
+    "types": [
+      "Lightning",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cb2",
+    "id": "d-ex15-2",
+    "name": "Shadow Blaze",
+    "types": [
+      "Fire",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cb3",
+    "id": "d-bw5-1",
+    "name": "Raiders",
+    "types": [
+      "Psychic",
+      "Darkness"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cb4",
+    "id": "d-bw5-2",
+    "name": "Shadows",
+    "types": [
+      "Darkness",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cb5",
+    "id": "d-pl3-1",
+    "name": "Ignition",
+    "types": [
+      "Fire",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cb6",
+    "id": "d-pl3-2",
+    "name": "Overflow",
+    "types": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cb7",
+    "id": "d-pl2-1",
+    "name": "Drill Point",
+    "types": [
+      "Fighting",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cb8",
+    "id": "d-pl2-2",
+    "name": "Cutting Edge",
+    "types": [
+      "Psychic",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cb9",
+    "id": "d-hgss1-1",
+    "name": "Growth Clash",
+    "types": [
+      "Grass",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cba",
+    "id": "d-hgss1-2",
+    "name": "Ember Spark",
+    "types": [
+      "Fire",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cbb",
+    "id": "d-hgss1-3",
+    "name": "Mind Flood",
+    "types": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cbc",
+    "id": "d-bw4-1",
+    "name": "Explosive Edge",
+    "types": [
+      "Fire",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cbd",
+    "id": "d-bw4-2",
+    "name": "Voltage Vortex",
+    "types": [
+      "Lightning",
+      "Darkness"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cbe",
+    "id": "d-ex14-1",
+    "name": "Green Cyclone",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cbf",
+    "id": "d-ex14-2",
+    "name": "Storm Surge",
+    "types": [
+      "Water",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cc0",
+    "id": "d-ex14-3",
+    "name": "Earth Shower",
+    "types": [
+      "Water",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cc1",
+    "id": "d-sm1-1",
+    "name": "Forest Shadow",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cc2",
+    "id": "d-sm1-2",
+    "name": "Roaring Heat",
+    "types": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cc3",
+    "id": "d-sm1-3",
+    "name": "Bright Tide",
+    "types": [
+      "Water",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cc4",
+    "id": "d-dp5-1",
+    "name": "Forest Force",
+    "types": [
+      "Grass",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cc5",
+    "id": "d-dp5-2",
+    "name": "Polar Frost",
+    "types": [
+      "Water",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cc6",
+    "id": "d-xy6-1",
+    "name": "Aurora Blast",
+    "types": [
+      "Water",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cc7",
+    "id": "d-xy6-2",
+    "name": "Storm Rider",
+    "types": [
+      "Lightning",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cc8",
+    "id": "d-xy11-1",
+    "name": "Gears of Fire",
+    "types": [
+      "Fire",
+      "Metal"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cc9",
+    "id": "d-xy11-2",
+    "name": "Ring of Lightning",
+    "types": [
+      "Psychic",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cca",
+    "id": "d-swsh1-1",
+    "name": "Rillaboom",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ccb",
+    "id": "d-swsh1-2",
+    "name": "Cinderace",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ccc",
+    "id": "d-swsh1-3",
+    "name": "Inteleon",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ccd",
+    "id": "d-base1-1",
+    "name": "2-Player Starter Set",
+    "types": [
+      "Fire",
+      "Fighting",
+      "Colorless"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cce",
+    "id": "d-base1-2",
+    "name": "Overgrowth",
+    "types": [
+      "Water",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ccf",
+    "id": "d-base1-3",
+    "name": "Zap!",
+    "types": [
+      "Lightning",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cd0",
+    "id": "d-base1-4",
+    "name": "Brushfire",
+    "types": [
+      "Fire",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cd1",
+    "id": "d-base1-5",
+    "name": "Blackout",
+    "types": [
+      "Water",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cd2",
+    "id": "d-bw8-1",
+    "name": "Plasma Shadow",
+    "types": [
+      "Psychic",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cd3",
+    "id": "d-bw8-2",
+    "name": "Plasma Claw",
+    "types": [
+      "Fire",
+      "Water",
+      "Dragon"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cd4",
+    "id": "d-gym1-1",
+    "name": "Brock",
+    "types": [
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cd5",
+    "id": "d-gym1-2",
+    "name": "Misty",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cd6",
+    "id": "d-gym1-3",
+    "name": "Lt. Surge",
+    "types": [
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cd7",
+    "id": "d-gym1-4",
+    "name": "Erika",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cd8",
+    "id": "d-ex3-1",
+    "name": "WindBlast",
+    "types": [
+      "Grass",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cd9",
+    "id": "d-ex3-2",
+    "name": "FireFang",
+    "types": [
+      "Fire",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cda",
+    "id": "d-ex8-1",
+    "name": "Starcharge",
+    "types": [
+      "Grass",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cdb",
+    "id": "d-ex8-2",
+    "name": "Jetstream",
+    "types": [
+      "Fire",
+      "Water",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cdc",
+    "id": "d-sm6-1",
+    "name": "Tropical Takedown",
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cdd",
+    "id": "d-sm6-2",
+    "name": "Twilight Rogue",
+    "types": [
+      "Fighting",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cde",
+    "id": "d-ex13-1",
+    "name": "FireMist",
+    "types": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cdf",
+    "id": "d-ex13-2",
+    "name": "FloodRush",
+    "types": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ce0",
+    "id": "d-bw3-1",
+    "name": "Fast Daze",
+    "types": [
+      "Grass",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ce1",
+    "id": "d-bw3-2",
+    "name": "Furious Knights",
+    "types": [
+      "Metal",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ce2",
+    "id": "d-ex4-1",
+    "name": "Team Magma",
+    "types": [
+      "Fire",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ce3",
+    "id": "d-ex4-2",
+    "name": "Team Aqua",
+    "types": [
+      "Water",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ce4",
+    "id": "d-neo1-1",
+    "name": "Hotfoot",
+    "types": [
+      "Grass",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ce5",
+    "id": "d-neo1-2",
+    "name": "Cold Fusion",
+    "types": [
+      "Lightning",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ce6",
+    "id": "d-ecard2-1",
+    "name": "Rock Garden",
+    "types": [
+      "Fighting",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ce7",
+    "id": "d-ecard2-2",
+    "name": "Abyss",
+    "types": [
+      "Fire",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ce8",
+    "id": "d-base6-1",
+    "name": "Turmoil",
+    "types": [
+      "Lightning",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ce9",
+    "id": "d-base6-2",
+    "name": "Lava",
+    "types": [
+      "Fighting",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cea",
+    "id": "d-xy1-1",
+    "name": "Resilient Life",
+    "types": [
+      "Fairy",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ceb",
+    "id": "d-xy1-2",
+    "name": "Destruction Rush",
+    "types": [
+      "Darkness",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cec",
+    "id": "d-dp2-1",
+    "name": "Armor Fortress",
+    "types": [
+      "Water",
+      "Metal"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11ced",
+    "id": "d-dp2-2",
+    "name": "Skull Charge",
+    "types": [
+      "Grass",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cee",
+    "id": "d-dp3-1",
+    "name": "Powerhouse",
+    "types": [
+      "Lightning",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cef",
+    "id": "d-dp3-2",
+    "name": "Lavaflow",
+    "types": [
+      "Fire",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cf0",
+    "id": "d-xy0-1",
+    "name": "Chespin",
+    "types": [
+      "Grass",
+      "Fairy"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cf1",
+    "id": "d-xy0-2",
+    "name": "Fennekin",
+    "types": [
+      "Fire",
+      "Darkness"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cf2",
+    "id": "d-xy0-3",
+    "name": "Froakie",
+    "types": [
+      "Water",
+      "Metal"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cf3",
+    "id": "d-ecard3-1",
+    "name": "Eeveelution",
+    "types": [
+      "Fire",
+      "Water",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cf4",
+    "id": "d-ecard3-2",
+    "name": "Mind Machine",
+    "types": [
+      "Grass",
+      "Fire",
+      "Water",
+      "Lightning",
+      "Psychic",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cf5",
+    "id": "d-ex5-1",
+    "name": "Wish Maker",
+    "types": [
+      "Psychic",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cf6",
+    "id": "d-ex5-2",
+    "name": "Forest Guardian",
+    "types": [
+      "Colorless",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cf7",
+    "id": "d-pl4-1",
+    "name": "Flamemaster",
+    "types": [
+      "Fire",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cf8",
+    "id": "d-pl4-2",
+    "name": "Stormshaper",
+    "types": [
+      "Lightning",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cf9",
+    "id": "d-bw2-1",
+    "name": "Power Play",
+    "types": [
+      "Fighting",
+      "Water"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cfa",
+    "id": "d-bw2-2",
+    "name": "Toxic Tricks",
+    "types": [
+      "Psychic",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cfb",
+    "id": "d-sm10-1",
+    "name": "Lightning Loop",
+    "types": [
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cfc",
+    "id": "d-sm10-2",
+    "name": "Battle Mind",
+    "types": [
+      "Psychic",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cfd",
+    "id": "d-ex12-1",
+    "name": "Groundbreaker",
+    "types": [
+      "Grass",
+      "Fighting"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cfe",
+    "id": "d-ex12-2",
+    "name": "Shadowquake",
+    "types": [
+      "Water",
+      "Psychic"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11cff",
+    "id": "d-sm7-1",
+    "name": "Leaf Charge",
+    "types": [
+      "Grass",
+      "Lightning"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11d00",
+    "id": "d-sm7-2",
+    "name": "Hydro Fury",
+    "types": [
+      "Water",
+      "Fire"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11d01",
+    "id": "d-ex9-1",
+    "name": "Hydrobloom",
+    "types": [
+      "Water",
+      "Grass"
+    ]
+  },
+  {
+    "_id": "6806b25c902b61f198d11d02",
+    "id": "d-ex9-2",
+    "name": "Wildfire",
+    "types": [
+      "Lightning",
+      "Fire"
+    ]
+  }
+]

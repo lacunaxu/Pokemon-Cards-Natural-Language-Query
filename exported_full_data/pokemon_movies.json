@@ -1,0 +1,291 @@
+[
+  {
+    "_id": "6806ae12902b61f198d11c30",
+    "movie_id": 1,
+    "japanese_title": "ミュウツーの逆襲",
+    "english_title": "Pokémon: The First Movie - Mewtwo Strikes Back",
+    "release_date_japan": "1998-07-18",
+    "generation": "Generation 1",
+    "generation_short": "base",
+    "featured_pokemon": [
+      "Mewtwo",
+      "Mew"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c31",
+    "movie_id": 2,
+    "japanese_title": "幻のポケモン ルギア爆誕",
+    "english_title": "Pokémon: The Movie 2000 - The Power of One",
+    "release_date_japan": "1999-07-17",
+    "generation": "Generation 1",
+    "generation_short": "base",
+    "featured_pokemon": [
+      "Lugia",
+      "Articuno",
+      "Zapdos",
+      "Moltres"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c32",
+    "movie_id": 3,
+    "japanese_title": "結晶塔の帝王 ＥＮＴＥＩ",
+    "english_title": "Pokémon: The Movie 3 - Spell of the Unown: Entei",
+    "release_date_japan": "2000-07-08",
+    "generation": "Generation 2",
+    "generation_short": "gs",
+    "featured_pokemon": [
+      "Entei",
+      "Unown"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c33",
+    "movie_id": 4,
+    "japanese_title": "セレビィ 時を超えた遭遇",
+    "english_title": "Pokémon 4Ever: Celebi - Voice of the Forest",
+    "release_date_japan": "2001-07-07",
+    "generation": "Generation 2",
+    "generation_short": "gs",
+    "featured_pokemon": [
+      "Celebi",
+      "Suicune"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c34",
+    "movie_id": 5,
+    "japanese_title": "水の都の護神 ラティアスとラティオス",
+    "english_title": "Pokémon Heroes: Latios and Latias",
+    "release_date_japan": "2002-07-13",
+    "generation": "Generation 2",
+    "generation_short": "gs",
+    "featured_pokemon": [
+      "Latios",
+      "Latias"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c35",
+    "movie_id": 6,
+    "japanese_title": "七夜の願い星 ジラーチ",
+    "english_title": "Pokémon: Jirachi - Wish Maker",
+    "release_date_japan": "2003-07-19",
+    "generation": "Generation 3",
+    "generation_short": "ag",
+    "featured_pokemon": [
+      "Jirachi",
+      "Groudon"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c36",
+    "movie_id": 7,
+    "japanese_title": "裂空の訪問者 デオキシス",
+    "english_title": "Pokémon: Destiny Deoxys",
+    "release_date_japan": "2004-07-17",
+    "generation": "Generation 3",
+    "generation_short": "ag",
+    "featured_pokemon": [
+      "Deoxys",
+      "Rayquaza"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c37",
+    "movie_id": 8,
+    "japanese_title": "ミュウと波導の勇者 ルカリオ",
+    "english_title": "Pokémon: Lucario and the Mystery of Mew",
+    "release_date_japan": "2005-07-16",
+    "generation": "Generation 3",
+    "generation_short": "ag",
+    "featured_pokemon": [
+      "Lucario",
+      "Mew"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c38",
+    "movie_id": 9,
+    "japanese_title": "ポケモンレンジャーと蒼海の王子 マナフィ",
+    "english_title": "Pokémon Ranger and the Temple of the Sea",
+    "release_date_japan": "2006-07-15",
+    "generation": "Generation 3",
+    "generation_short": "ag",
+    "featured_pokemon": [
+      "Manaphy",
+      "Kyogre"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c39",
+    "movie_id": 10,
+    "japanese_title": "ディアルガVSパルキアVSダークライ",
+    "english_title": "Pokémon: The Rise of Darkrai",
+    "release_date_japan": "2007-07-14",
+    "generation": "Generation 4",
+    "generation_short": "dp",
+    "featured_pokemon": [
+      "Dialga",
+      "Palkia",
+      "Darkrai"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c3a",
+    "movie_id": 11,
+    "japanese_title": "ギラティナと氷空の花束 シェイミ",
+    "english_title": "Pokémon: Giratina and the Sky Warrior",
+    "release_date_japan": "2008-07-19",
+    "generation": "Generation 4",
+    "generation_short": "dp",
+    "featured_pokemon": [
+      "Giratina",
+      "Shaymin"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c3b",
+    "movie_id": 12,
+    "japanese_title": "アルセウス 超克の時空へ",
+    "english_title": "Pokémon: Arceus and the Jewel of Life",
+    "release_date_japan": "2009-07-18",
+    "generation": "Generation 4",
+    "generation_short": "dp",
+    "featured_pokemon": [
+      "Arceus"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c3c",
+    "movie_id": 13,
+    "japanese_title": "幻影の覇者 ゾロアーク",
+    "english_title": "Pokémon: Zoroark: Master of Illusions",
+    "release_date_japan": "2010-07-10",
+    "generation": "Generation 4",
+    "generation_short": "dp",
+    "featured_pokemon": [
+      "Zoroark",
+      "Zorua"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c3d",
+    "movie_id": 14,
+    "japanese_title": "ビクティニと黒き英雄 ゼクロム／白き英雄 レシラム",
+    "english_title": "Pokémon the Movie: Black—Victini and Reshiram and White—Victini and Zekrom",
+    "release_date_japan": "2011-07-16",
+    "generation": "Generation 5",
+    "generation_short": "bw",
+    "featured_pokemon": [
+      "Victini",
+      "Zekrom",
+      "Reshiram"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c3e",
+    "movie_id": 15,
+    "japanese_title": "キュレムVS聖剣士 ケルディオ",
+    "english_title": "Pokémon the Movie: Kyurem vs. the Sword of Justice",
+    "release_date_japan": "2012-07-14",
+    "generation": "Generation 5",
+    "generation_short": "bw",
+    "featured_pokemon": [
+      "Kyurem",
+      "Keldeo"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c3f",
+    "movie_id": 16,
+    "japanese_title": "神速のゲノセクト ミュウツー覚醒",
+    "english_title": "Pokémon the Movie: Genesect and the Legend Awakened",
+    "release_date_japan": "2013-07-13",
+    "generation": "Generation 5",
+    "generation_short": "bw",
+    "featured_pokemon": [
+      "Genesect",
+      "Mewtwo"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c40",
+    "movie_id": 11,
+    "japanese_title": "ギラティナと氷空の花束 シェイミ",
+    "english_title": "Pokémon: Giratina and the Sky Warrior",
+    "release_date_japan": "2008-07-19",
+    "generation": "Generation 4",
+    "generation_short": "dp",
+    "featured_pokemon": [
+      "Giratina",
+      "Shaymin"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c41",
+    "movie_id": 12,
+    "japanese_title": "アルセウス 超克の時空へ",
+    "english_title": "Pokémon: Arceus and the Jewel of Life",
+    "release_date_japan": "2009-07-18",
+    "generation": "Generation 4",
+    "generation_short": "dp",
+    "featured_pokemon": [
+      "Arceus"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c42",
+    "movie_id": 13,
+    "japanese_title": "幻影の覇者 ゾロアーク",
+    "english_title": "Pokémon: Zoroark: Master of Illusions",
+    "release_date_japan": "2010-07-10",
+    "generation": "Generation 4",
+    "generation_short": "dp",
+    "featured_pokemon": [
+      "Zoroark",
+      "Zorua"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c43",
+    "movie_id": 14,
+    "japanese_title": "ビクティニと黒き英雄 ゼクロム／白き英雄 レシラム",
+    "english_title": "Pokémon the Movie: Black—Victini and Reshiram and White—Victini and Zekrom",
+    "release_date_japan": "2011-07-16",
+    "generation": "Generation 5",
+    "generation_short": "bw",
+    "featured_pokemon": [
+      "Victini",
+      "Zekrom",
+      "Reshiram"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c44",
+    "movie_id": 15,
+    "japanese_title": "キュレムVS聖剣士 ケルディオ",
+    "english_title": "Pokémon the Movie: Kyurem vs. the Sword of Justice",
+    "release_date_japan": "2012-07-14",
+    "generation": "Generation 5",
+    "generation_short": "bw",
+    "featured_pokemon": [
+      "Kyurem",
+      "Keldeo"
+    ]
+  },
+  {
+    "_id": "6806ae12902b61f198d11c45",
+    "movie_id": 16,
+    "japanese_title": "神速のゲノセクト ミュウツー覚醒",
+    "english_title": "Pokémon the Movie: Genesect and the Legend Awakened",
+    "release_date_japan": "2013-07-13",
+    "generation": "Generation 5",
+    "generation_short": "bw",
+    "featured_pokemon": [
+      "Genesect",
+      "Mewtwo"
+    ]
+  }
+]

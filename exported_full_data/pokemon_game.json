@@ -1,0 +1,1309 @@
+[
+  {
+    "_id": "6806ad75902b61f198d11bf5",
+    "game_id": 1,
+    "title_japanese": "ポケットモンスター 赤・緑",
+    "title_english": "Pokémon Red and Green",
+    "release_date_japan": "1996-02-27",
+    "generation": "Generation 1",
+    "generation_short": "base",
+    "platform": "Game Boy",
+    "starter_pokemon": [
+      "Charmander",
+      "Squirtle",
+      "Bulbasaur"
+    ],
+    "legendary_pokemon": [
+      "Articuno",
+      "Zapdos",
+      "Moltres",
+      "Mewtwo"
+    ],
+    "mythical_pokemon": [
+      "Mew"
+    ],
+    "main_character": [
+      "Red",
+      "Blue"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11bf6",
+    "game_id": 2,
+    "title_japanese": "ポケットモンスター 青",
+    "title_english": "Pokémon Blue",
+    "release_date_japan": "1996-10-15",
+    "generation": "Generation 1",
+    "generation_short": "base",
+    "platform": "Game Boy",
+    "starter_pokemon": [
+      "Charmander",
+      "Squirtle",
+      "Bulbasaur"
+    ],
+    "legendary_pokemon": [
+      "Articuno",
+      "Zapdos",
+      "Moltres",
+      "Mewtwo"
+    ],
+    "mythical_pokemon": [
+      "Mew"
+    ],
+    "main_character": [
+      "Red",
+      "Blue"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11bf7",
+    "game_id": 3,
+    "title_japanese": "ポケットモンスター ピカチュウ",
+    "title_english": "Pokémon Yellow: Special Pikachu Edition",
+    "release_date_japan": "1998-09-12",
+    "generation": "Generation 1",
+    "generation_short": "base",
+    "platform": "Game Boy",
+    "starter_pokemon": [
+      "Pikachu"
+    ],
+    "legendary_pokemon": [
+      "Articuno",
+      "Zapdos",
+      "Moltres",
+      "Mewtwo"
+    ],
+    "mythical_pokemon": [
+      "Mew"
+    ],
+    "main_character": [
+      "Ash Ketchum (based)",
+      "Blue"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11bf8",
+    "game_id": 4,
+    "title_japanese": "ポケットモンスター 金・銀",
+    "title_english": "Pokémon Gold and Silver",
+    "release_date_japan": "1999-11-21",
+    "generation": "Generation 2",
+    "generation_short": "gs",
+    "platform": "Game Boy Color",
+    "starter_pokemon": [
+      "Cyndaquil",
+      "Totodile",
+      "Chikorita"
+    ],
+    "legendary_pokemon": [
+      "Ho-Oh",
+      "Lugia",
+      "Raikou",
+      "Entei",
+      "Suicune"
+    ],
+    "mythical_pokemon": [
+      "Celebi"
+    ],
+    "main_character": [
+      "Ethan",
+      "Kris (Crystal Version)"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11bf9",
+    "game_id": 5,
+    "title_japanese": "ポケットモンスター クリスタル",
+    "title_english": "Pokémon Crystal",
+    "release_date_japan": "2000-12-14",
+    "generation": "Generation 2",
+    "generation_short": "gs",
+    "platform": "Game Boy Color",
+    "starter_pokemon": [
+      "Cyndaquil",
+      "Totodile",
+      "Chikorita"
+    ],
+    "legendary_pokemon": [
+      "Ho-Oh",
+      "Lugia",
+      "Raikou",
+      "Entei",
+      "Suicune"
+    ],
+    "mythical_pokemon": [
+      "Celebi"
+    ],
+    "main_character": [
+      "Ethan",
+      "Kris"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11bfa",
+    "game_id": 6,
+    "title_japanese": "ポケットモンスター ルビー・サファイア",
+    "title_english": "Pokémon Ruby and Sapphire",
+    "release_date_japan": "2002-11-21",
+    "generation": "Generation 3",
+    "generation_short": "rs",
+    "platform": "Game Boy Advance",
+    "starter_pokemon": [
+      "Treecko",
+      "Torchic",
+      "Mudkip"
+    ],
+    "legendary_pokemon": [
+      "Groudon",
+      "Kyogre",
+      "Rayquaza",
+      "Regirock",
+      "Regice",
+      "Registeel",
+      "Latias",
+      "Latios"
+    ],
+    "mythical_pokemon": [
+      "Jirachi",
+      "Deoxys"
+    ],
+    "main_character": [
+      "Brendan",
+      "May"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11bfb",
+    "game_id": 7,
+    "title_japanese": "ポケットモンスター ファイアレッド・リーフグリーン",
+    "title_english": "Pokémon FireRed and LeafGreen",
+    "release_date_japan": "2004-01-29",
+    "generation": "Generation 3",
+    "generation_short": "rs",
+    "platform": "Game Boy Advance",
+    "starter_pokemon": [
+      "Charmander",
+      "Squirtle",
+      "Bulbasaur"
+    ],
+    "legendary_pokemon": [
+      "Articuno",
+      "Zapdos",
+      "Moltres",
+      "Mewtwo"
+    ],
+    "mythical_pokemon": [
+      "Mew"
+    ],
+    "main_character": [
+      "Red",
+      "Leaf"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11bfc",
+    "game_id": 8,
+    "title_japanese": "ポケットモンスター エメラルド",
+    "title_english": "Pokémon Emerald",
+    "release_date_japan": "2004-09-16",
+    "generation": "Generation 3",
+    "generation_short": "rs",
+    "platform": "Game Boy Advance",
+    "starter_pokemon": [
+      "Treecko",
+      "Torchic",
+      "Mudkip"
+    ],
+    "legendary_pokemon": [
+      "Groudon",
+      "Kyogre",
+      "Rayquaza",
+      "Regirock",
+      "Regice",
+      "Registeel",
+      "Latias",
+      "Latios",
+      "Deoxys"
+    ],
+    "mythical_pokemon": [
+      "Jirachi"
+    ],
+    "main_character": [
+      "Brendan",
+      "May"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11bfd",
+    "game_id": 9,
+    "title_japanese": "ポケットモンスター ダイヤモンド・パール",
+    "title_english": "Pokémon Diamond and Pearl",
+    "release_date_japan": "2006-09-28",
+    "generation": "Generation 4",
+    "generation_short": "dp",
+    "platform": "Nintendo DS",
+    "starter_pokemon": [
+      "Turtwig",
+      "Chimchar",
+      "Piplup"
+    ],
+    "legendary_pokemon": [
+      "Dialga",
+      "Palkia",
+      "Uxie",
+      "Mesprit",
+      "Azelf",
+      "Heatran",
+      "Regigigas",
+      "Cresselia"
+    ],
+    "mythical_pokemon": [
+      "Manaphy",
+      "Phione",
+      "Darkrai",
+      "Shaymin",
+      "Arceus"
+    ],
+    "main_character": [
+      "Lucas",
+      "Dawn"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11bfe",
+    "game_id": 10,
+    "title_japanese": "ポケットモンスター プラチナ",
+    "title_english": "Pokémon Platinum",
+    "release_date_japan": "2008-09-13",
+    "generation": "Generation 4",
+    "generation_short": "dp",
+    "platform": "Nintendo DS",
+    "starter_pokemon": [
+      "Turtwig",
+      "Chimchar",
+      "Piplup"
+    ],
+    "legendary_pokemon": [
+      "Giratina",
+      "Dialga",
+      "Palkia",
+      "Uxie",
+      "Mesprit",
+      "Azelf",
+      "Heatran",
+      "Regigigas",
+      "Cresselia"
+    ],
+    "mythical_pokemon": [
+      "Manaphy",
+      "Phione",
+      "Darkrai",
+      "Shaymin",
+      "Arceus"
+    ],
+    "main_character": [
+      "Lucas",
+      "Dawn"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11bff",
+    "game_id": 11,
+    "title_japanese": "ポケットモンスター ハートゴールド・ソウルシルバー",
+    "title_english": "Pokémon HeartGold and SoulSilver",
+    "release_date_japan": "2009-09-12",
+    "generation": "Generation 4",
+    "generation_short": "dp",
+    "platform": "Nintendo DS",
+    "starter_pokemon": [
+      "Cyndaquil",
+      "Totodile",
+      "Chikorita"
+    ],
+    "legendary_pokemon": [
+      "Ho-Oh",
+      "Lugia",
+      "Raikou",
+      "Entei",
+      "Suicune"
+    ],
+    "mythical_pokemon": [
+      "Celebi"
+    ],
+    "main_character": [
+      "Ethan",
+      "Lyra"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c00",
+    "game_id": 12,
+    "title_japanese": "ポケットモンスター ブラック・ホワイト",
+    "title_english": "Pokémon Black and White",
+    "release_date_japan": "2010-09-18",
+    "generation": "Generation 5",
+    "generation_short": "bw",
+    "platform": "Nintendo DS",
+    "starter_pokemon": [
+      "Snivy",
+      "Tepig",
+      "Oshawott"
+    ],
+    "legendary_pokemon": [
+      "Reshiram",
+      "Zekrom",
+      "Cobalion",
+      "Terrakion",
+      "Virizion",
+      "Tornadus",
+      "Thundurus",
+      "Landorus"
+    ],
+    "mythical_pokemon": [
+      "Victini",
+      "Keldeo",
+      "Meloetta",
+      "Genesect"
+    ],
+    "main_character": [
+      "Hilbert",
+      "Hilda"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c01",
+    "game_id": 13,
+    "title_japanese": "ポケットモンスター ブラック2・ホワイト2",
+    "title_english": "Pokémon Black 2 and White 2",
+    "release_date_japan": "2012-06-23",
+    "generation": "Generation 5",
+    "generation_short": "bw",
+    "platform": "Nintendo DS",
+    "starter_pokemon": [
+      "Snivy",
+      "Tepig",
+      "Oshawott"
+    ],
+    "legendary_pokemon": [
+      "Black Kyurem",
+      "White Kyurem",
+      "Reshiram",
+      "Zekrom",
+      "Cobalion",
+      "Terrakion",
+      "Virizion",
+      "Tornadus",
+      "Thundurus",
+      "Landorus"
+    ],
+    "mythical_pokemon": [
+      "Victini",
+      "Keldeo",
+      "Meloetta",
+      "Genesect"
+    ],
+    "main_character": [
+      "Nate",
+      "Rosa"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c02",
+    "game_id": 14,
+    "title_japanese": "ポケットモンスター Ｘ・Ｙ",
+    "title_english": "Pokémon X and Y",
+    "release_date_japan": "2013-10-12",
+    "generation": "Generation 6",
+    "generation_short": "xy",
+    "platform": "Nintendo 3DS",
+    "starter_pokemon": [
+      "Chespin",
+      "Fennekin",
+      "Froakie"
+    ],
+    "legendary_pokemon": [
+      "Xerneas",
+      "Yveltal",
+      "Zygarde"
+    ],
+    "mythical_pokemon": [
+      "Diancie",
+      "Hoopa",
+      "Volcanion"
+    ],
+    "main_character": [
+      "Calem",
+      "Serena"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c03",
+    "game_id": 15,
+    "title_japanese": "ポケットモンスター オメガルビー・アルファサファイア",
+    "title_english": "Pokémon Omega Ruby and Alpha Sapphire",
+    "release_date_japan": "2014-11-21",
+    "generation": "Generation 6",
+    "generation_short": "xy",
+    "platform": "Nintendo 3DS",
+    "starter_pokemon": [
+      "Treecko",
+      "Torchic",
+      "Mudkip"
+    ],
+    "legendary_pokemon": [
+      "Groudon",
+      "Kyogre",
+      "Rayquaza",
+      "Latias",
+      "Latios",
+      "Regirock",
+      "Regice",
+      "Registeel",
+      "Deoxys"
+    ],
+    "mythical_pokemon": [
+      "Jirachi"
+    ],
+    "main_character": [
+      "Brendan",
+      "May"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c04",
+    "game_id": 16,
+    "title_japanese": "ポケットモンスター サン・ムーン",
+    "title_english": "Pokémon Sun and Moon",
+    "release_date_japan": "2016-11-18",
+    "generation": "Generation 7",
+    "generation_short": "sm",
+    "platform": "Nintendo 3DS",
+    "starter_pokemon": [
+      "Rowlet",
+      "Litten",
+      "Popplio"
+    ],
+    "legendary_pokemon": [
+      "Solgaleo",
+      "Lunala",
+      "Tapu Koko",
+      "Tapu Lele",
+      "Tapu Bulu",
+      "Tapu Fini",
+      "Cosmog",
+      "Cosmoem",
+      "Necrozma"
+    ],
+    "mythical_pokemon": [
+      "Magearna",
+      "Marshadow",
+      "Zeraora",
+      "Meltan",
+      "Melmetal"
+    ],
+    "main_character": [
+      "Elio",
+      "Selene"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c05",
+    "game_id": 17,
+    "title_japanese": "ポケットモンスター ウルトラサン・ウルトラムーン",
+    "title_english": "Pokémon Ultra Sun and Ultra Moon",
+    "release_date_japan": "2017-11-17",
+    "generation": "Generation 7",
+    "generation_short": "sm",
+    "platform": "Nintendo 3DS",
+    "starter_pokemon": [
+      "Rowlet",
+      "Litten",
+      "Popplio"
+    ],
+    "legendary_pokemon": [
+      "Solgaleo",
+      "Lunala",
+      "Necrozma (Dusk Mane, Dawn Wings, Ultra Necrozma)",
+      "Tapu Koko",
+      "Tapu Lele",
+      "Tapu Bulu",
+      "Tapu Fini"
+    ],
+    "mythical_pokemon": [
+      "Magearna",
+      "Marshadow",
+      "Zeraora",
+      "Meltan",
+      "Melmetal"
+    ],
+    "main_character": [
+      "Elio",
+      "Selene"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c06",
+    "game_id": 18,
+    "title_japanese": "ポケットモンスター Let's Go! ピカチュウ・Let's Go! イーブイ",
+    "title_english": "Pokémon Let's Go, Pikachu! and Let's Go, Eevee!",
+    "release_date_japan": "2018-11-16",
+    "generation": "Generation 7",
+    "generation_short": "sm",
+    "platform": "Nintendo Switch",
+    "starter_pokemon": [
+      "Pikachu",
+      "Eevee"
+    ],
+    "legendary_pokemon": [
+      "Articuno",
+      "Zapdos",
+      "Moltres",
+      "Mewtwo"
+    ],
+    "mythical_pokemon": [
+      "Mew"
+    ],
+    "main_character": [
+      "Chase",
+      "Elaine"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c07",
+    "game_id": 19,
+    "title_japanese": "ポケットモンスター ソード・シールド",
+    "title_english": "Pokémon Sword and Shield",
+    "release_date_japan": "2019-11-15",
+    "generation": "Generation 8",
+    "generation_short": "ss",
+    "platform": "Nintendo Switch",
+    "starter_pokemon": [
+      "Grookey",
+      "Scorbunny",
+      "Sobble"
+    ],
+    "legendary_pokemon": [
+      "Zacian",
+      "Zamazenta",
+      "Eternatus",
+      "Kubfu",
+      "Urshifu",
+      "Regieleki",
+      "Regidrago",
+      "Calyrex",
+      "Glastrier",
+      "Spectrier"
+    ],
+    "mythical_pokemon": [
+      "Zarude"
+    ],
+    "main_character": [
+      "Victor",
+      "Gloria"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c08",
+    "game_id": 20,
+    "title_japanese": "ポケットモンスター ブリリアントダイヤモンド・シャイニングパール",
+    "title_english": "Pokémon Brilliant Diamond and Shining Pearl",
+    "release_date_japan": "2021-11-19",
+    "generation": "Generation 8",
+    "generation_short": "ss",
+    "platform": "Nintendo Switch",
+    "starter_pokemon": [
+      "Turtwig",
+      "Chimchar",
+      "Piplup"
+    ],
+    "legendary_pokemon": [
+      "Dialga",
+      "Palkia",
+      "Giratina",
+      "Uxie",
+      "Mesprit",
+      "Azelf",
+      "Heatran",
+      "Regigigas",
+      "Cresselia"
+    ],
+    "mythical_pokemon": [
+      "Manaphy",
+      "Phione",
+      "Darkrai",
+      "Shaymin",
+      "Arceus"
+    ],
+    "main_character": [
+      "Lucas",
+      "Dawn"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c09",
+    "game_id": 21,
+    "title_japanese": "Pokémon LEGENDS アルセウス",
+    "title_english": "Pokémon Legends: Arceus",
+    "release_date_japan": "2022-01-28",
+    "generation": "Generation 8",
+    "generation_short": "ss",
+    "platform": "Nintendo Switch",
+    "starter_pokemon": [
+      "Rowlet",
+      "Cyndaquil",
+      "Oshawott"
+    ],
+    "legendary_pokemon": [
+      "Dialga",
+      "Palkia",
+      "Giratina",
+      "Arceus",
+      "Heatran",
+      "Regigigas",
+      "Cresselia",
+      "Manaphy",
+      "Phione"
+    ],
+    "mythical_pokemon": [],
+    "main_character": [
+      "Rei",
+      "Akari"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c0a",
+    "game_id": 22,
+    "title_japanese": "ポケットモンスター スカーレット・バイオレット",
+    "title_english": "Pokémon Scarlet and Violet",
+    "release_date_japan": "2022-11-18",
+    "generation": "Generation 9",
+    "generation_short": "sv",
+    "platform": "Nintendo Switch",
+    "starter_pokemon": [
+      "Sprigatito",
+      "Fuecoco",
+      "Quaxly"
+    ],
+    "legendary_pokemon": [
+      "Koraidon",
+      "Miraidon",
+      "Wo-Chien",
+      "Chien-Pao",
+      "Ting-Lu",
+      "Chi-Yu"
+    ],
+    "mythical_pokemon": [
+      "Pecharunt",
+      "Archaludon",
+      "Raging Bolt",
+      "Iron Crown"
+    ],
+    "main_character": [
+      "Florian",
+      "Juliana"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c0b",
+    "game_id": 23,
+    "title_japanese": "ポケットモンスター スカーレット・バイオレット ゼロの秘宝",
+    "title_english": "Pokémon Scarlet and Violet: The Hidden Treasure of Area Zero",
+    "release_date_japan": "2023-12-14 (DLC後篇)",
+    "generation": "Generation 9",
+    "generation_short": "sv",
+    "platform": "Nintendo Switch",
+    "starter_pokemon": [],
+    "legendary_pokemon": [
+      "Ogerpon",
+      "Terapagos"
+    ],
+    "mythical_pokemon": [],
+    "main_character": [
+      "Florian",
+      "Juliana"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c0c",
+    "game_id": 101,
+    "title_japanese": "ポケモンGO",
+    "title_english": "Pokémon GO",
+    "release_date_japan": "2016-07-22",
+    "generation": "Generation 7",
+    "generation_short": "sm",
+    "platform": "Mobile (iOS, Android)",
+    "starter_pokemon": [
+      "Bulbasaur",
+      "Charmander",
+      "Squirtle",
+      "Pikachu"
+    ],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c0d",
+    "game_id": 102,
+    "title_japanese": "ポケモンクエスト",
+    "title_english": "Pokémon Quest",
+    "release_date_japan": "2018-05-30",
+    "generation": "Generation 7",
+    "generation_short": "sm",
+    "platform": "Nintendo Switch, Mobile (iOS, Android)",
+    "starter_pokemon": [
+      "Bulbasaur",
+      "Charmander",
+      "Squirtle",
+      "Pikachu",
+      "Eevee"
+    ],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c0e",
+    "game_id": 103,
+    "title_japanese": "ポケモンマスターズEX",
+    "title_english": "Pokémon Masters EX",
+    "release_date_japan": "2019-08-29",
+    "generation": "Generation 8",
+    "generation_short": "ss",
+    "platform": "Mobile (iOS, Android)",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": [
+      "Player (Customizable)"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c0f",
+    "game_id": 104,
+    "title_japanese": "ポケモンユナイト",
+    "title_english": "Pokémon UNITE",
+    "release_date_japan": "2021-07-21",
+    "generation": "Generation 8",
+    "generation_short": "ss",
+    "platform": "Nintendo Switch, Mobile (iOS, Android)",
+    "starter_pokemon": [
+      "Pikachu",
+      "Snorlax",
+      "Charizard",
+      "Talonflame",
+      "Eldegoss"
+    ],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": [
+      "Trainer (Customizable)"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c10",
+    "game_id": 105,
+    "title_japanese": "ポケモン不思議のダンジョン 救助隊DX",
+    "title_english": "Pokémon Mystery Dungeon: Rescue Team DX",
+    "release_date_japan": "2020-03-06",
+    "generation": "Generation 8",
+    "generation_short": "ss",
+    "platform": "Nintendo Switch",
+    "starter_pokemon": [
+      "Bulbasaur",
+      "Charmander",
+      "Squirtle",
+      "Pikachu",
+      "Meowth",
+      "Psyduck",
+      "Machop",
+      "Cubone",
+      "Eevee",
+      "Chikorita",
+      "Cyndaquil",
+      "Totodile",
+      "Treecko",
+      "Torchic",
+      "Mudkip",
+      "Skitty"
+    ],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c11",
+    "game_id": 106,
+    "title_japanese": "ポケモンピンボール",
+    "title_english": "Pokémon Pinball",
+    "release_date_japan": "1999-04-14",
+    "generation": "Generation 1",
+    "generation_short": "rb",
+    "platform": "Game Boy Color",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c12",
+    "game_id": 107,
+    "title_japanese": "ポケモン不思議のダンジョン 赤の救助隊・青の救助隊",
+    "title_english": "Pokémon Mystery Dungeon: Red Rescue Team and Blue Rescue Team",
+    "release_date_japan": "2005-11-17",
+    "generation": "Generation 3",
+    "generation_short": "rs",
+    "platform": "Game Boy Advance, Nintendo DS",
+    "starter_pokemon": [
+      "Bulbasaur",
+      "Charmander",
+      "Squirtle",
+      "Pikachu",
+      "Meowth",
+      "Psyduck",
+      "Machop",
+      "Cubone",
+      "Eevee",
+      "Chikorita",
+      "Cyndaquil",
+      "Totodile",
+      "Treecko",
+      "Torchic",
+      "Mudkip",
+      "Skitty"
+    ],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c13",
+    "game_id": 108,
+    "title_japanese": "ポケモンスナップ",
+    "title_english": "Pokémon Snap",
+    "release_date_japan": "1999-03-21",
+    "generation": "Generation 1",
+    "generation_short": "rb",
+    "platform": "Nintendo 64",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": [
+      "Todd Snap"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c14",
+    "game_id": 109,
+    "title_japanese": "ポケモンレンジャー",
+    "title_english": "Pokémon Ranger",
+    "release_date_japan": "2006-03-23",
+    "generation": "Generation 3",
+    "generation_short": "rs",
+    "platform": "Nintendo DS",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": [
+      "Lunick",
+      "Solana"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c15",
+    "game_id": 110,
+    "title_japanese": "名探偵ピカチュウ",
+    "title_english": "Detective Pikachu",
+    "release_date_japan": "2016-02-03",
+    "generation": "Generation 6",
+    "generation_short": "xy",
+    "platform": "Nintendo 3DS",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": [
+      "Tim Goodman",
+      "Detective Pikachu"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c16",
+    "game_id": 111,
+    "title_japanese": "New ポケモンスナップ",
+    "title_english": "New Pokémon Snap",
+    "release_date_japan": "2021-04-30",
+    "generation": "Generation 8",
+    "generation_short": "ss",
+    "platform": "Nintendo Switch",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": [
+      "Todd Snap",
+      "Rita",
+      "Phil"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c17",
+    "game_id": 112,
+    "title_japanese": "Pokémon Sleep",
+    "title_english": "Pokémon Sleep",
+    "release_date_japan": "2023-07-20",
+    "generation": "Generation 9",
+    "generation_short": "sv",
+    "platform": "Mobile (iOS, Android)",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c18",
+    "game_id": 113,
+    "title_japanese": "Pokémon Café ReMix",
+    "title_english": "Pokémon Café ReMix",
+    "release_date_japan": "2020-06-24",
+    "generation": "Generation 8",
+    "generation_short": "ss",
+    "platform": "Nintendo Switch, Mobile (iOS, Android)",
+    "starter_pokemon": [
+      "Eevee"
+    ],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c19",
+    "game_id": 114,
+    "title_japanese": "みんなのポケモン牧場",
+    "title_english": "My Pokémon Ranch",
+    "release_date_japan": "2008-03-25",
+    "generation": "Generation 4",
+    "generation_short": "dp",
+    "platform": "Nintendo Wii",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c1a",
+    "game_id": 115,
+    "title_japanese": "乱闘!ポケモンスクランブル",
+    "title_english": "Pokémon Rumble",
+    "release_date_japan": "2009-06-16",
+    "generation": "Generation 4",
+    "generation_short": "dp",
+    "platform": "Nintendo Wii (WiiWare)",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c1b",
+    "game_id": 116,
+    "title_japanese": "スーパーポケモンスクランブル",
+    "title_english": "Pokémon Rumble Blast",
+    "release_date_japan": "2011-08-11",
+    "generation": "Generation 5",
+    "generation_short": "bw",
+    "platform": "Nintendo 3DS",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c1c",
+    "game_id": 117,
+    "title_japanese": "ポッ拳 POKKÉN TOURNAMENT",
+    "title_english": "Pokkén Tournament",
+    "release_date_japan": "2015-07-16 (Arcade) / 2016-03-18 (Wii U)",
+    "generation": "Generation 6",
+    "generation_short": "xy",
+    "platform": "Arcade, Nintendo Wii U",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c1d",
+    "game_id": 118,
+    "title_japanese": "ポッ拳 POKKÉN TOURNAMENT DX",
+    "title_english": "Pokkén Tournament DX",
+    "release_date_japan": "2017-09-22",
+    "generation": "Generation 7",
+    "generation_short": "sm",
+    "platform": "Nintendo Switch",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c1e",
+    "game_id": 119,
+    "title_japanese": "バトル&ゲット! ポケモンタイピングDS",
+    "title_english": "Learn with Pokémon: Typing Adventure",
+    "release_date_japan": "2011-04-21",
+    "generation": "Generation 5",
+    "generation_short": "bw",
+    "platform": "Nintendo DS",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c1f",
+    "game_id": 120,
+    "title_japanese": "ポケモンバトルレボリューション",
+    "title_english": "Pokémon Battle Revolution",
+    "release_date_japan": "2006-12-14",
+    "generation": "Generation 4",
+    "generation_short": "dp",
+    "platform": "Nintendo Wii",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c20",
+    "game_id": 121,
+    "title_japanese": "ポケモントローゼ",
+    "title_english": "Pokémon Trozei!",
+    "release_date_japan": "2005-10-20",
+    "generation": "Generation 3",
+    "generation_short": "rs",
+    "platform": "Nintendo DS",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c21",
+    "game_id": 122,
+    "title_japanese": "ポケとる",
+    "title_english": "Pokémon Shuffle",
+    "release_date_japan": "2015-02-18",
+    "generation": "Generation 6",
+    "generation_short": "xy",
+    "platform": "Nintendo 3DS, Mobile (iOS, Android)",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c22",
+    "game_id": 123,
+    "title_japanese": "Pokémon HOME",
+    "title_english": "Pokémon HOME",
+    "release_date_japan": "2020-02-12",
+    "generation": "Generation 8",
+    "generation_short": "ss",
+    "platform": "Nintendo Switch, Mobile (iOS, Android)",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c23",
+    "game_id": 124,
+    "title_japanese": "ポケモンスマイル",
+    "title_english": "Pokémon Smile",
+    "release_date_japan": "2020-06-17",
+    "generation": "Generation 8",
+    "generation_short": "ss",
+    "platform": "Mobile (iOS, Android)",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c24",
+    "game_id": 125,
+    "title_japanese": "みんなのポケモンスクランブル",
+    "title_english": "Pokémon Rumble World",
+    "release_date_japan": "2015-04-08",
+    "generation": "Generation 6",
+    "generation_short": "xy",
+    "platform": "Nintendo 3DS",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c25",
+    "game_id": 126,
+    "title_japanese": "ポケモン超不思議のダンジョン",
+    "title_english": "Pokémon Super Mystery Dungeon",
+    "release_date_japan": "2015-09-17",
+    "generation": "Generation 6",
+    "generation_short": "xy",
+    "platform": "Nintendo 3DS",
+    "starter_pokemon": [
+      "Bulbasaur",
+      "Charmander",
+      "Squirtle",
+      "Pikachu",
+      "Chikorita",
+      "Cyndaquil",
+      "Totodile",
+      "Treecko",
+      "Torchic",
+      "Mudkip",
+      "Turtwig",
+      "Chimchar",
+      "Piplup",
+      "Snivy",
+      "Tepig",
+      "Oshawott",
+      "Fennekin",
+      "Chespin",
+      "Froakie",
+      "Riolu"
+    ],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c26",
+    "game_id": 127,
+    "title_japanese": "ポケモンピクロス",
+    "title_english": "Pokémon Picross",
+    "release_date_japan": "2015-12-02",
+    "generation": "Generation 6",
+    "generation_short": "xy",
+    "platform": "Nintendo 3DS",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c27",
+    "game_id": 128,
+    "title_japanese": "ポケモンコマスター",
+    "title_english": "Pokémon Duel",
+    "release_date_japan": "2016-04-12",
+    "generation": "Generation 6",
+    "generation_short": "xy",
+    "platform": "Mobile (iOS, Android)",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c28",
+    "game_id": 129,
+    "title_japanese": "バトルポケモントローゼ",
+    "title_english": "Pokémon Battle Trozei",
+    "release_date_japan": "2014-03-12",
+    "generation": "Generation 6",
+    "generation_short": "xy",
+    "platform": "Nintendo 3DS",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c29",
+    "game_id": 130,
+    "title_japanese": "ポケモンアートアカデミー",
+    "title_english": "Pokémon Art Academy",
+    "release_date_japan": "2014-06-19",
+    "generation": "Generation 6",
+    "generation_short": "xy",
+    "platform": "Nintendo 3DS",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c2a",
+    "game_id": 131,
+    "title_japanese": "帰ってきた 名探偵ピカチュウ",
+    "title_english": "Detective Pikachu Returns",
+    "release_date_japan": "2023-10-06",
+    "generation": "Generation 9",
+    "generation_short": "sv",
+    "platform": "Nintendo Switch",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": [
+      "Tim Goodman",
+      "Detective Pikachu"
+    ]
+  },
+  {
+    "_id": "6806ad75902b61f198d11c2b",
+    "game_id": 135,
+    "title_japanese": "ポケモンスマイル",
+    "title_english": "Pokémon Smile",
+    "release_date_japan": "2020-06-17",
+    "generation": "Generation 8",
+    "generation_short": "ss",
+    "platform": "Mobile (iOS, Android)",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c2c",
+    "game_id": 136,
+    "title_japanese": "ポケモン プレイハウス",
+    "title_english": "Pokémon Playhouse",
+    "release_date_japan": "2017-09-21",
+    "generation": "Generation 7",
+    "generation_short": "sm",
+    "platform": "Mobile (iOS, Android)",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c2d",
+    "game_id": 137,
+    "title_japanese": "ポケモンカードゲームオンライン",
+    "title_english": "Pokémon TCG Online",
+    "release_date_japan": "2011-03-24",
+    "generation": "Generation 5",
+    "generation_short": "bw",
+    "platform": "PC, Mobile (iOS, Android)",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  },
+  {
+    "_id": "6806ad75902b61f198d11c2e",
+    "game_id": 138,
+    "title_japanese": "ポケモンTCGライブ",
+    "title_english": "Pokémon TCG Live",
+    "release_date_japan": "2022-11-15",
+    "generation": "Generation 8",
+    "generation_short": "ss",
+    "platform": "PC, Mobile (iOS, Android)",
+    "starter_pokemon": [],
+    "legendary_pokemon": [],
+    "mythical_pokemon": [],
+    "main_character": []
+  }
+]
