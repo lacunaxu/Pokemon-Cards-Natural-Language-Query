@@ -1,0 +1,740 @@
+{
+  "pokemon_decks": [
+    {
+      "_id": "6806b25c902b61f198d11c47",
+      "id": "d-bw10-1",
+      "name": "Mind Wipe",
+      "types": [
+        "Grass",
+        "Psychic"
+      ]
+    },
+    {
+      "_id": "6806b25c902b61f198d11c48",
+      "id": "d-bw10-2",
+      "name": "Solar Strike",
+      "types": [
+        "Fire",
+        "Water"
+      ]
+    },
+    {
+      "_id": "6806b25c902b61f198d11c49",
+      "id": "d-bw1-1",
+      "name": "Green Tornado",
+      "types": [
+        "Grass",
+        "Psychic"
+      ]
+    },
+    {
+      "_id": "6806b25c902b61f198d11c4a",
+      "id": "d-bw1-2",
+      "name": "Red Frenzy",
+      "types": [
+        "Fire",
+        "Fighting"
+      ]
+    },
+    {
+      "_id": "6806b25c902b61f198d11c4b",
+      "id": "d-bw1-3",
+      "name": "Blue Assault",
+      "types": [
+        "Water",
+        "Lightning"
+      ]
+    }
+  ],
+  "card_sets": [
+    {
+      "_id": "68056bd5f55f45963e2307fd",
+      "id": "base1",
+      "name": "Base",
+      "series": "Base",
+      "total": 102,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "releaseDate": "1999/01/09",
+      "generation": "Generation 1"
+    },
+    {
+      "_id": "68056bd5f55f45963e2307fe",
+      "id": "base2",
+      "name": "Jungle",
+      "series": "Base",
+      "total": 64,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "releaseDate": "1999/06/16",
+      "generation": "Generation 1"
+    },
+    {
+      "_id": "68056bd5f55f45963e2307ff",
+      "id": "basep",
+      "name": "Wizards Black Star Promos",
+      "series": "Base",
+      "total": 53,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "releaseDate": "1999/07/01",
+      "generation": "Unknown Generation"
+    },
+    {
+      "_id": "68056bd5f55f45963e230800",
+      "id": "base3",
+      "name": "Fossil",
+      "series": "Base",
+      "total": 62,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "releaseDate": "1999/10/10",
+      "generation": "Generation 1"
+    },
+    {
+      "_id": "68056bd5f55f45963e230801",
+      "id": "base4",
+      "name": "Base Set 2",
+      "series": "Base",
+      "total": 130,
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "releaseDate": "2000/02/24",
+      "generation": "Generation 1"
+    }
+  ],
+  "pokemon_information": [
+    {
+      "_id": "6806bd8b902b61f198d12c8d",
+      "id": 1,
+      "name": "Bulbasaur",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "base": {
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 49,
+        "Sp. Attack": 65,
+        "Sp. Defense": 65,
+        "Speed": 45
+      },
+      "evolution": {
+        "next": [
+          [
+            "2",
+            "Level 16"
+          ]
+        ]
+      }
+    },
+    {
+      "_id": "6806bd8b902b61f198d12c8e",
+      "id": 2,
+      "name": "Ivysaur",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 63,
+        "Sp. Attack": 80,
+        "Sp. Defense": 80,
+        "Speed": 60
+      },
+      "evolution": {
+        "prev": [
+          "1",
+          "Level 16"
+        ],
+        "next": [
+          [
+            "3",
+            "Level 32"
+          ]
+        ]
+      }
+    },
+    {
+      "_id": "6806bd8b902b61f198d12c8f",
+      "id": 3,
+      "name": "Venusaur",
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 83,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 80
+      },
+      "evolution": {
+        "prev": [
+          "2",
+          "Level 32"
+        ]
+      }
+    },
+    {
+      "_id": "6806bd8b902b61f198d12c90",
+      "id": 4,
+      "name": "Charmander",
+      "type": [
+        "Fire"
+      ],
+      "base": {
+        "HP": 39,
+        "Attack": 52,
+        "Defense": 43,
+        "Sp. Attack": 60,
+        "Sp. Defense": 50,
+        "Speed": 65
+      },
+      "evolution": {
+        "next": [
+          [
+            "5",
+            "Level 16"
+          ]
+        ]
+      }
+    },
+    {
+      "_id": "6806bd8b902b61f198d12c91",
+      "id": 5,
+      "name": "Charmeleon",
+      "type": [
+        "Fire"
+      ],
+      "base": {
+        "HP": 58,
+        "Attack": 64,
+        "Defense": 58,
+        "Sp. Attack": 80,
+        "Sp. Defense": 65,
+        "Speed": 80
+      },
+      "evolution": {
+        "prev": [
+          "4",
+          "Level 16"
+        ],
+        "next": [
+          [
+            "6",
+            "Level 36"
+          ]
+        ]
+      }
+    }
+  ],
+  "card_price": [
+    {
+      "_id": "680602bd06485b9812ec2a3d",
+      "title": "2x (SWSH02-001) Caterpie (C) Pokemon Rebel Clash Card # 1",
+      "price": 1,
+      "name": "Caterpie",
+      "set_id": "swsh8"
+    },
+    {
+      "_id": "680602c006485b9812ec2a3f",
+      "title": "Pokemon TCG: SWSH Rebel Clash - Pick Your Card Complete Your Set",
+      "price": 0.99,
+      "name": "Metapod",
+      "set_id": "swsh8"
+    },
+    {
+      "_id": "680602c406485b9812ec2a41",
+      "title": "Butterfree - SWSH02: Rebel Clash - SWSH02 - 3/192 - Pokemon",
+      "price": 1.99,
+      "name": "Butterfree",
+      "set_id": "swsh8"
+    },
+    {
+      "_id": "680602c706485b9812ec2a43",
+      "title": "Shroomish 005/132 Pokemon Reverse Holo Chinese SWSH Nine Colors Gathering CS4aC",
+      "price": 1.3,
+      "name": "Shroomish",
+      "set_id": "swsh8"
+    },
+    {
+      "_id": "680602ca06485b9812ec2a45",
+      "title": "Breloom - 005/264 - Uncommon NM-Mint Pokemon SWSH8 - Fusion Strike",
+      "price": 0.99,
+      "name": "Breloom",
+      "set_id": "swsh8"
+    }
+  ],
+  "pokemon_movies": [
+    {
+      "_id": "6806ae12902b61f198d11c30",
+      "movie_id": 1,
+      "japanese_title": "ミュウツーの逆襲",
+      "english_title": "Pokémon: The First Movie - Mewtwo Strikes Back",
+      "release_date_japan": "1998-07-18",
+      "generation": "Generation 1",
+      "generation_short": "base",
+      "featured_pokemon": [
+        "Mewtwo",
+        "Mew"
+      ]
+    },
+    {
+      "_id": "6806ae12902b61f198d11c31",
+      "movie_id": 2,
+      "japanese_title": "幻のポケモン ルギア爆誕",
+      "english_title": "Pokémon: The Movie 2000 - The Power of One",
+      "release_date_japan": "1999-07-17",
+      "generation": "Generation 1",
+      "generation_short": "base",
+      "featured_pokemon": [
+        "Lugia",
+        "Articuno",
+        "Zapdos",
+        "Moltres"
+      ]
+    },
+    {
+      "_id": "6806ae12902b61f198d11c32",
+      "movie_id": 3,
+      "japanese_title": "結晶塔の帝王 ＥＮＴＥＩ",
+      "english_title": "Pokémon: The Movie 3 - Spell of the Unown: Entei",
+      "release_date_japan": "2000-07-08",
+      "generation": "Generation 2",
+      "generation_short": "gs",
+      "featured_pokemon": [
+        "Entei",
+        "Unown"
+      ]
+    },
+    {
+      "_id": "6806ae12902b61f198d11c33",
+      "movie_id": 4,
+      "japanese_title": "セレビィ 時を超えた遭遇",
+      "english_title": "Pokémon 4Ever: Celebi - Voice of the Forest",
+      "release_date_japan": "2001-07-07",
+      "generation": "Generation 2",
+      "generation_short": "gs",
+      "featured_pokemon": [
+        "Celebi",
+        "Suicune"
+      ]
+    },
+    {
+      "_id": "6806ae12902b61f198d11c34",
+      "movie_id": 5,
+      "japanese_title": "水の都の護神 ラティアスとラティオス",
+      "english_title": "Pokémon Heroes: Latios and Latias",
+      "release_date_japan": "2002-07-13",
+      "generation": "Generation 2",
+      "generation_short": "gs",
+      "featured_pokemon": [
+        "Latios",
+        "Latias"
+      ]
+    }
+  ],
+  "deck_cards": [
+    {
+      "_id": "6806b267902b61f198d11d04",
+      "deck_id": "d-bw10-1",
+      "id": "bw10-10",
+      "name": "Genesect",
+      "rarity": "Rare Holo",
+      "count": 1
+    },
+    {
+      "_id": "6806b267902b61f198d11d05",
+      "deck_id": "d-bw10-1",
+      "id": "bw10-10",
+      "name": "Genesect",
+      "rarity": "Rare",
+      "count": 1
+    },
+    {
+      "_id": "6806b267902b61f198d11d06",
+      "deck_id": "d-bw10-1",
+      "id": "bw10-46",
+      "name": "Golurk",
+      "rarity": "Rare",
+      "count": 1
+    },
+    {
+      "_id": "6806b267902b61f198d11d07",
+      "deck_id": "d-bw10-1",
+      "id": "bw10-45",
+      "name": "Golett",
+      "rarity": "Common",
+      "count": 2
+    },
+    {
+      "_id": "6806b267902b61f198d11d08",
+      "deck_id": "d-bw10-1",
+      "id": "bw10-35",
+      "name": "Drifblim",
+      "rarity": "Rare",
+      "count": 1
+    }
+  ],
+  "pokemon_game": [
+    {
+      "_id": "6806ad75902b61f198d11bf5",
+      "game_id": 1,
+      "title_japanese": "ポケットモンスター 赤・緑",
+      "title_english": "Pokémon Red and Green",
+      "release_date_japan": "1996-02-27",
+      "generation": "Generation 1",
+      "generation_short": "base",
+      "platform": "Game Boy",
+      "starter_pokemon": [
+        "Charmander",
+        "Squirtle",
+        "Bulbasaur"
+      ],
+      "legendary_pokemon": [
+        "Articuno",
+        "Zapdos",
+        "Moltres",
+        "Mewtwo"
+      ],
+      "mythical_pokemon": [
+        "Mew"
+      ],
+      "main_character": [
+        "Red",
+        "Blue"
+      ]
+    },
+    {
+      "_id": "6806ad75902b61f198d11bf6",
+      "game_id": 2,
+      "title_japanese": "ポケットモンスター 青",
+      "title_english": "Pokémon Blue",
+      "release_date_japan": "1996-10-15",
+      "generation": "Generation 1",
+      "generation_short": "base",
+      "platform": "Game Boy",
+      "starter_pokemon": [
+        "Charmander",
+        "Squirtle",
+        "Bulbasaur"
+      ],
+      "legendary_pokemon": [
+        "Articuno",
+        "Zapdos",
+        "Moltres",
+        "Mewtwo"
+      ],
+      "mythical_pokemon": [
+        "Mew"
+      ],
+      "main_character": [
+        "Red",
+        "Blue"
+      ]
+    },
+    {
+      "_id": "6806ad75902b61f198d11bf7",
+      "game_id": 3,
+      "title_japanese": "ポケットモンスター ピカチュウ",
+      "title_english": "Pokémon Yellow: Special Pikachu Edition",
+      "release_date_japan": "1998-09-12",
+      "generation": "Generation 1",
+      "generation_short": "base",
+      "platform": "Game Boy",
+      "starter_pokemon": [
+        "Pikachu"
+      ],
+      "legendary_pokemon": [
+        "Articuno",
+        "Zapdos",
+        "Moltres",
+        "Mewtwo"
+      ],
+      "mythical_pokemon": [
+        "Mew"
+      ],
+      "main_character": [
+        "Ash Ketchum (based)",
+        "Blue"
+      ]
+    },
+    {
+      "_id": "6806ad75902b61f198d11bf8",
+      "game_id": 4,
+      "title_japanese": "ポケットモンスター 金・銀",
+      "title_english": "Pokémon Gold and Silver",
+      "release_date_japan": "1999-11-21",
+      "generation": "Generation 2",
+      "generation_short": "gs",
+      "platform": "Game Boy Color",
+      "starter_pokemon": [
+        "Cyndaquil",
+        "Totodile",
+        "Chikorita"
+      ],
+      "legendary_pokemon": [
+        "Ho-Oh",
+        "Lugia",
+        "Raikou",
+        "Entei",
+        "Suicune"
+      ],
+      "mythical_pokemon": [
+        "Celebi"
+      ],
+      "main_character": [
+        "Ethan",
+        "Kris (Crystal Version)"
+      ]
+    },
+    {
+      "_id": "6806ad75902b61f198d11bf9",
+      "game_id": 5,
+      "title_japanese": "ポケットモンスター クリスタル",
+      "title_english": "Pokémon Crystal",
+      "release_date_japan": "2000-12-14",
+      "generation": "Generation 2",
+      "generation_short": "gs",
+      "platform": "Game Boy Color",
+      "starter_pokemon": [
+        "Cyndaquil",
+        "Totodile",
+        "Chikorita"
+      ],
+      "legendary_pokemon": [
+        "Ho-Oh",
+        "Lugia",
+        "Raikou",
+        "Entei",
+        "Suicune"
+      ],
+      "mythical_pokemon": [
+        "Celebi"
+      ],
+      "main_character": [
+        "Ethan",
+        "Kris"
+      ]
+    }
+  ],
+  "card_informations": [
+    {
+      "_id": "68056cbdf55f45963e2308a2",
+      "id": "swsh8-1",
+      "name": "Caterpie",
+      "subtypes": [
+        "Basic"
+      ],
+      "hp": 50,
+      "types": [
+        "Grass"
+      ],
+      "attacks": [
+        {
+          "name": "Flock",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Search your deck for a Caterpie and put it onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Bug Bite",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "artist": "Mitsuhiro Arita",
+      "rarity": "Common",
+      "nationalPokedexNumbers": [
+        10
+      ],
+      "set_id": "swsh8"
+    },
+    {
+      "_id": "68056cbdf55f45963e2308a3",
+      "id": "swsh8-2",
+      "name": "Metapod",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "hp": 80,
+      "types": [
+        "Grass"
+      ],
+      "attacks": [
+        {
+          "name": "Ram",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "artist": "Saya Tsuruta",
+      "rarity": "Uncommon",
+      "nationalPokedexNumbers": [
+        11
+      ],
+      "set_id": "swsh8"
+    },
+    {
+      "_id": "68056cbdf55f45963e2308a4",
+      "id": "swsh8-3",
+      "name": "Butterfree",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "hp": 120,
+      "types": [
+        "Grass"
+      ],
+      "attacks": [
+        {
+          "name": "Gust",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "90",
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "artist": "ryoma uratsuka",
+      "rarity": "Rare Holo",
+      "nationalPokedexNumbers": [
+        12
+      ],
+      "set_id": "swsh8"
+    },
+    {
+      "_id": "68056cbdf55f45963e2308a5",
+      "id": "swsh8-4",
+      "name": "Shroomish",
+      "subtypes": [
+        "Basic"
+      ],
+      "hp": 60,
+      "types": [
+        "Grass"
+      ],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": ""
+        },
+        {
+          "name": "Seed Bomb",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "artist": "Naoyo Kimura",
+      "rarity": "Common",
+      "nationalPokedexNumbers": [
+        285
+      ],
+      "set_id": "swsh8"
+    },
+    {
+      "_id": "68056cbdf55f45963e2308a6",
+      "id": "swsh8-5",
+      "name": "Breloom",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "hp": 120,
+      "types": [
+        "Grass"
+      ],
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": ""
+        },
+        {
+          "name": "Impact Blow",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "During your next turn, this Pokémon can't use Impact Blow."
+        }
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "artist": "Yukiko Baba",
+      "rarity": "Uncommon",
+      "nationalPokedexNumbers": [
+        286
+      ],
+      "set_id": "swsh8"
+    }
+  ]
+}
